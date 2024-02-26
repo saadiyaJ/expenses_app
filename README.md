@@ -1,6 +1,6 @@
 # Flutter expense_app
 
-<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app.gif" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/expense_tracker.gif" alt="App Demo" width="200" height="350">
 
 ## Introduction
 This is a useful beginner-level Flutter Expense Tracker App project.
@@ -19,9 +19,9 @@ Through this app I learned how to:
 
 ## Screenshots
 
-<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app_opening.png" alt="App Demo" width="200" height="350">
-<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app_questions.png" alt="App Demo" width="200" height="350">
-<img src="https://github.com/saadiyaJ/quiz_app/blob/main/screenshots/quiz_app_results.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/portrait_lightMode.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/portrait_darkMode.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/landscape_lightMode.png" alt="App Demo" width="200" height="350">
 
 
 ### Prerequisites
