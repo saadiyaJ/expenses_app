@@ -21,7 +21,7 @@ Through this app I learned how to:
 
 <img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/portrait_lightMode.png" alt="App Demo" width="200" height="350">
 <img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/portrait_darkMode.png" alt="App Demo" width="200" height="350">
-<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/landscape_lightMode.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/expenses_app/blob/main/screenshots/landscape_lightMode.png" alt="App Demo" width="600" height="200">
 
 
 ### Prerequisites
